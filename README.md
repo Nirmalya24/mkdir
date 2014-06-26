@@ -16,3 +16,5 @@ The following input:
 Will create the following output:
 
 ![Directory](/screenshots/directory.png)
+
+Contact me at nirmalya.gh24@gmail.com for any queries or suggestions.
